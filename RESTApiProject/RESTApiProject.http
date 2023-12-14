@@ -1,0 +1,6 @@
+@RESTApiProject_HostAddress = http://localhost:5245
+
+GET {{RESTApiProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
